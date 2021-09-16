@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewReactRedux can render initially 1`] = `
+Array [
+  <h1>
+     
+    0
+  </h1>,
+  <div
+    style={
+      Object {
+        "display": "flex",
+      }
+    }
+  >
+    <button
+      id="newMinus"
+      onClick={[Function]}
+      style={
+        Object {
+          "fontSize": "1.5rem",
+          "height": "40px",
+          "width": "40px",
+        }
+      }
+      type="button"
+    >
+      -
+    </button>
+    <button
+      id="newAdd"
+      onClick={[Function]}
+      style={
+        Object {
+          "fontSize": "1.5rem",
+          "height": "40px",
+          "width": "40px",
+        }
+      }
+      type="button"
+    >
+      +
+    </button>
+  </div>,
+]
+`;
